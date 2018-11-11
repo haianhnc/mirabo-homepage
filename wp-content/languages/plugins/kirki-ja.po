@@ -1,0 +1,477 @@
+# Translation of Plugins - Kirki - Stable (latest release) in Japanese
+# This file is distributed under the same license as the Plugins - Kirki - Stable (latest release) package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2017-04-15 02:27:55+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: GlotPress/2.4.0-alpha\n"
+"Language: ja_JP\n"
+"Project-Id-Version: Plugins - Kirki - Stable (latest release)\n"
+
+#: includes/class-kirki-l10n.php:212
+msgid "Switch Editor"
+msgstr "エディターを切り替え"
+
+#: includes/class-kirki-l10n.php:211
+msgid "Close Editor"
+msgstr "エディターを閉じる"
+
+#: includes/class-kirki-l10n.php:210
+msgid "Open Editor"
+msgstr "エディターを開く"
+
+#: includes/class-kirki-l10n.php:213
+msgid "Hex Value"
+msgstr "16進値"
+
+#: includes/class-kirki-l10n.php:169
+msgid "No File Selected"
+msgstr "ファイルが選択されていません"
+
+#: includes/class-kirki-l10n.php:168
+msgid "Change File"
+msgstr "ファイルを変更"
+
+#: includes/class-kirki-l10n.php:167
+msgid "Add File"
+msgstr "ファイルを追加"
+
+#: includes/class-kirki-l10n.php:197
+msgid "row"
+msgstr "行"
+
+#: includes/class-kirki-l10n.php:196
+msgid "Add new"
+msgstr "新規追加"
+
+#: includes/class-kirki-l10n.php:209
+msgid "Select a Page"
+msgstr "ページを選択"
+
+#: includes/class-kirki-l10n.php:208
+msgid "Initial"
+msgstr "初期設定"
+
+#: includes/class-kirki-l10n.php:207
+msgid "Lowercase"
+msgstr "小文字"
+
+#: includes/class-kirki-l10n.php:206
+msgid "Uppercase"
+msgstr "大文字"
+
+#: includes/class-kirki-l10n.php:205
+msgid "Capitalize"
+msgstr "先頭大文字"
+
+#: includes/class-kirki-l10n.php:204
+msgid "None"
+msgstr "なし"
+
+#: includes/class-kirki-l10n.php:203
+msgid "Text Transform"
+msgstr "文字の変形"
+
+#: includes/class-kirki-l10n.php:202
+msgid "Text Align"
+msgstr "文字の配置"
+
+#: includes/class-kirki-l10n.php:162
+msgid "Justify"
+msgstr "両端揃え"
+
+#: includes/class-kirki-l10n.php:161
+msgid "Center"
+msgstr "中央"
+
+#: includes/class-kirki-l10n.php:201
+msgid "%s Reset"
+msgstr "%s のリセット"
+
+#: includes/class-kirki-l10n.php:200
+#: includes/sections/class-kirki-sections-hover-section.php:46
+msgid "Back"
+msgstr "戻る"
+
+#: includes/class-kirki-l10n.php:199
+#: includes/sections/class-kirki-sections-hover-section.php:40
+msgid "Press return or enter to open this section"
+msgstr "このセクションを開くには Return または Enter キーを押してください"
+
+#: includes/class-kirki-l10n.php:198
+msgid "Limit: %s rows"
+msgstr "制限: %s 行"
+
+#: includes/class-kirki-l10n.php:195
+msgid "Invalid Value"
+msgstr "無効な値"
+
+#: includes/class-kirki-l10n.php:194
+msgid "Ultra-Bold 900 Italic"
+msgstr "Ultra-Bold 900 Italic"
+
+#: includes/class-kirki-l10n.php:193
+msgid "Ultra-Bold 900"
+msgstr "Ultra-Bold 900"
+
+#: includes/class-kirki-l10n.php:192
+msgid "Extra-Bold 800 Italic"
+msgstr "Extra-Bold 800 Italic"
+
+#: includes/class-kirki-l10n.php:191
+msgid "Extra-Bold 800"
+msgstr "Extra-Bold 800"
+
+#: includes/class-kirki-l10n.php:190
+msgid "Bold 700 Italic"
+msgstr "Bold 700 Italic"
+
+#: includes/class-kirki-l10n.php:189
+msgid "Bold 700"
+msgstr "Bold 700"
+
+#: includes/class-kirki-l10n.php:188
+msgid "Semi-Bold 600 Italic"
+msgstr "Semi-Bold 600 Italic"
+
+#: includes/class-kirki-l10n.php:187
+msgid "Semi-Bold 600"
+msgstr "Semi-Bold 600"
+
+#: includes/class-kirki-l10n.php:186
+msgid "Medium 500 Italic"
+msgstr "Medium 500 Italic"
+
+#: includes/class-kirki-l10n.php:185
+msgid "Medium 500"
+msgstr "Medium 500"
+
+#: includes/class-kirki-l10n.php:184
+msgid "Normal 400 Italic"
+msgstr "Normal 400 Italic"
+
+#: includes/class-kirki-l10n.php:183
+msgid "Normal 400"
+msgstr "Normal 400"
+
+#: includes/class-kirki-l10n.php:182
+msgid "Book 300 Italic"
+msgstr "Book 300 Italic"
+
+#: includes/class-kirki-l10n.php:181
+msgid "Book 300"
+msgstr "Book 300"
+
+#: includes/class-kirki-l10n.php:180
+msgid "Light 200 Italic"
+msgstr "Light 200 Italic"
+
+#: includes/class-kirki-l10n.php:179
+msgid "Light 200"
+msgstr "Light 200"
+
+#: includes/class-kirki-l10n.php:178
+msgid "Ultra-Light 100 Italic"
+msgstr "Ultra-Light 100 Italic"
+
+#: includes/class-kirki-l10n.php:177
+msgid "Ultra-Light 100"
+msgstr "Ultra-Light 100"
+
+#: includes/class-kirki-l10n.php:176
+msgid "Spacing"
+msgstr "スペース"
+
+#: includes/class-kirki-l10n.php:175
+msgid "Height"
+msgstr "高さ"
+
+#: includes/class-kirki-l10n.php:174
+msgid "Size"
+msgstr "サイズ"
+
+#: includes/class-kirki-l10n.php:173
+msgid "Subset"
+msgstr "サブセット"
+
+#: includes/class-kirki-l10n.php:172
+msgid "Variant"
+msgstr "Variant"
+
+#: includes/class-kirki-l10n.php:171
+msgid "Select a font-family"
+msgstr "フォントファミリーを選択"
+
+#: includes/class-kirki-l10n.php:155
+msgid "Font Style"
+msgstr "フォントスタイル"
+
+#: includes/class-kirki-l10n.php:166
+msgid "No Image Selected"
+msgstr "画像が選択されていません"
+
+#: includes/class-kirki-l10n.php:170
+msgid "Remove"
+msgstr "削除"
+
+#: includes/class-kirki-l10n.php:165
+msgid "Change Image"
+msgstr "画像の変更"
+
+#: includes/class-kirki-l10n.php:164
+msgid "Add Image"
+msgstr "画像を追加"
+
+#: includes/class-kirki-l10n.php:163
+msgid "Color"
+msgstr "色"
+
+#: includes/class-kirki-l10n.php:160
+msgid "Right"
+msgstr "右"
+
+#: includes/class-kirki-l10n.php:159
+msgid "Left"
+msgstr "左"
+
+#: includes/class-kirki-l10n.php:158
+msgid "Bottom"
+msgstr "下"
+
+#: includes/class-kirki-l10n.php:157
+msgid "Top"
+msgstr "上"
+
+#: includes/class-kirki-l10n.php:156
+msgid "Letter Spacing"
+msgstr "文字間隔"
+
+#: includes/class-kirki-l10n.php:154
+msgid "Line Height"
+msgstr "行の高さ"
+
+#: includes/class-kirki-l10n.php:152
+msgid "Font Size"
+msgstr "フォントサイズ"
+
+#: includes/class-kirki-l10n.php:147
+msgid "Thai"
+msgstr "タイ文字"
+
+#: includes/class-kirki-l10n.php:146
+msgid "Telugu"
+msgstr "テルグ文字"
+
+#: includes/class-kirki-l10n.php:145
+msgid "Tamil"
+msgstr "タミル文字"
+
+#: includes/class-kirki-l10n.php:144
+msgid "Gujarati"
+msgstr "グジャラート文字"
+
+#: includes/class-kirki-l10n.php:143
+msgid "Bengali"
+msgstr "ベンガル文字"
+
+#: includes/class-kirki-l10n.php:142
+msgid "Arabic"
+msgstr "アラビア文字"
+
+#: includes/class-kirki-l10n.php:141
+msgid "Hebrew"
+msgstr "ヘブライ文字"
+
+#. Author URI of the plugin/theme
+msgid "http://aristeides.com"
+msgstr "http://aristeides.com"
+
+#. Author of the plugin/theme
+msgid "Aristeides Stathopoulos"
+msgstr "Aristeides Stathopoulos"
+
+#. Description of the plugin/theme
+msgid "The ultimate WordPress Customizer Toolkit"
+msgstr "究極の WordPress カスタマイザーツールキット"
+
+#. Plugin URI of the plugin/theme
+msgid "http://kirki.org"
+msgstr "http://kirki.org"
+
+#. Plugin Name of the plugin/theme
+msgid "Kirki Toolkit"
+msgstr "Kirki Toolkit"
+
+#: includes/class-kirki-l10n.php:153
+msgid "Font Weight"
+msgstr "フォントの太さ"
+
+#: includes/class-kirki-l10n.php:151
+msgid "Font Family"
+msgstr "フォントファミリー"
+
+#: includes/class-kirki-l10n.php:150
+msgctxt "font style"
+msgid "Monospace"
+msgstr "Monospace"
+
+#: includes/class-kirki-l10n.php:149
+msgctxt "font style"
+msgid "Sans Serif"
+msgstr "Sans Serif"
+
+#: includes/class-kirki-l10n.php:148
+msgctxt "font style"
+msgid "Serif"
+msgstr "Serif"
+
+#: includes/class-kirki-l10n.php:140
+msgid "Vietnamese"
+msgstr "ベトナム文字"
+
+#: includes/class-kirki-l10n.php:139
+msgid "Latin Extended"
+msgstr "拡張ラテン文字"
+
+#: includes/class-kirki-l10n.php:138
+msgid "Latin"
+msgstr "ラテン文字"
+
+#: includes/class-kirki-l10n.php:137
+msgid "Khmer"
+msgstr "クメール文字"
+
+#: includes/class-kirki-l10n.php:136
+msgid "Greek Extended"
+msgstr "拡張ギリシャ文字"
+
+#: includes/class-kirki-l10n.php:135
+msgid "Greek"
+msgstr "ギリシア文字"
+
+#: includes/class-kirki-l10n.php:134
+msgid "Devanagari"
+msgstr "デバナーガリ文字"
+
+#: includes/class-kirki-l10n.php:133
+msgid "Cyrillic Extended"
+msgstr "拡張キリル文字"
+
+#: includes/class-kirki-l10n.php:132
+msgid "Cyrillic"
+msgstr "キリル文字"
+
+#: includes/class-kirki-l10n.php:131
+msgid "All"
+msgstr "すべて"
+
+#: includes/class-kirki-l10n.php:130
+msgid "OFF"
+msgstr "オフ"
+
+#: includes/class-kirki-l10n.php:129
+msgid "ON"
+msgstr "オン"
+
+#: includes/class-kirki-l10n.php:128
+msgid "Background Opacity"
+msgstr "背景の透明度"
+
+#: includes/class-kirki-l10n.php:127
+msgid "Background Position"
+msgstr "背景の位置"
+
+#: includes/class-kirki-l10n.php:126
+msgid "Center Bottom"
+msgstr "中央下"
+
+#: includes/class-kirki-l10n.php:125
+msgid "Center Center"
+msgstr "中央"
+
+#: includes/class-kirki-l10n.php:124
+msgid "Center Top"
+msgstr "中央上"
+
+#: includes/class-kirki-l10n.php:123
+msgid "Right Bottom"
+msgstr "右下"
+
+#: includes/class-kirki-l10n.php:122
+msgid "Right Center"
+msgstr "右中央"
+
+#: includes/class-kirki-l10n.php:121
+msgid "Right Top"
+msgstr "右上"
+
+#: includes/class-kirki-l10n.php:120
+msgid "Left Bottom"
+msgstr "左下"
+
+#: includes/class-kirki-l10n.php:119
+msgid "Left Center"
+msgstr "左中央"
+
+#: includes/class-kirki-l10n.php:118
+msgid "Left Top"
+msgstr "左上"
+
+#: includes/class-kirki-l10n.php:117
+msgid "Background Attachment"
+msgstr "背景スクロール"
+
+#: includes/class-kirki-l10n.php:116
+msgid "Scroll"
+msgstr "スクロール"
+
+#: includes/class-kirki-l10n.php:115
+msgid "Fixed"
+msgstr "固定"
+
+#: includes/class-kirki-l10n.php:114
+msgid "Background Size"
+msgstr "背景のサイズ"
+
+#: includes/class-kirki-l10n.php:113
+msgid "Contain"
+msgstr "画像全体を表示"
+
+#: includes/class-kirki-l10n.php:112
+msgid "Cover"
+msgstr "カバー"
+
+#: includes/class-kirki-l10n.php:111
+msgid "Background Repeat"
+msgstr "背景の繰り返し"
+
+#: includes/class-kirki-l10n.php:110
+msgid "Inherit"
+msgstr "継承"
+
+#: includes/class-kirki-l10n.php:109
+msgid "Repeat Vertically"
+msgstr "縦に繰り返し"
+
+#: includes/class-kirki-l10n.php:108
+msgid "Repeat Horizontally"
+msgstr "水平繰り返し"
+
+#: includes/class-kirki-l10n.php:107
+msgid "Repeat All"
+msgstr "すべて繰り返し"
+
+#: includes/class-kirki-l10n.php:106
+msgid "No Repeat"
+msgstr "繰り返しなし"
+
+#: includes/class-kirki-l10n.php:105
+msgid "Background Image"
+msgstr "背景画像"
+
+#: includes/class-kirki-l10n.php:104
+msgid "Background Color"
+msgstr "背景色"

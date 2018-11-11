@@ -1,0 +1,52 @@
+
+---Downloaded files---
+The import files for: Agency were successfully downloaded!
+Initial max execution time = 30
+Files info:
+Site URL = https://mirabo.com.vn
+Data file = /home/aquapony6/www/wproot/wp-content/uploads/2018/11/demo-content-import-file_2018-11-02__08-05-49.xml
+Widget file = /home/aquapony6/www/wproot/wp-content/uploads/2018/11/demo-widgets-import-file_2018-11-02__08-05-49.json
+Customizer file = /home/aquapony6/www/wproot/wp-content/uploads/2018/11/demo-customizer-import-file_2018-11-02__08-05-49.dat
+Redux files:
+not defined!
+
+------
+New AJAX call!
+[WARNING] Failed to import elementor_library_type page
+[WARNING] Failed to import elementor_library_type section
+[ERROR] Failed to import "Layer 9" (Media)
+
+
+---Importing widgets---
+Sidebar : 
+
+Search - No Title - Imported
+Recent Posts - No Title - Imported
+Recent Comments - No Title - Imported
+Archives - No Title - Imported
+Categories - No Title - Imported
+Meta - No Title - Imported
+
+Footer 1 : 
+
+Text - No Title - Imported
+
+Footer 2 : 
+
+Text - Contact us - Imported
+
+Footer 3 : 
+
+Navigation Menu - Quick links - Imported
+
+Footer 4 : 
+
+Airi: Social Profile - Follow us - Imported
+
+
+
+---Importing customizer settings---
+Customizer settings import finished!
+
+---pt-ocdi/after_import---
+
